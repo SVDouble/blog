@@ -1,4 +1,5 @@
 # SVDouble's Personal Blog
+![website deployment](https://github.com/svdouble/blog/actions/workflows/main.yml/badge.svg)
 
 ### 📦 Tech Stack
 
@@ -11,8 +12,6 @@
 ---
 
 ## 🚀 Getting Started
-
-First you need to [clone](https://github.com/zeon-studio/hugoplate) or [download](https://github.com/zeon-studio/hugoplate/archive/refs/heads/main.zip) the template repository, and then let's get started with the following process:
 
 ### ⚙️ Prerequisites
 
