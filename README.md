@@ -1,4 +1,5 @@
 # SVDouble's Personal Blog
+
 ![website deployment](https://github.com/svdouble/blog/actions/workflows/main.yml/badge.svg)
 
 ### 📦 Tech Stack
@@ -9,6 +10,7 @@
 - [Markdown](https://markdownguide.org/)
 - [Prettier](https://prettier.io/)
 - [Github Actions](https://github.com/features/actions)
+
 ---
 
 ## 🚀 Getting Started
