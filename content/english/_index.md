@@ -1,53 +1,51 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Valentin Safronov - Engineering Innovator and Developer"
+  content: "Welcome to my personal website! Here, you'll find insights into my journey as an Engineering Sciences
+  undergrad at TUM, my work experience, and my passion for technology, robotics, and AI. Dive in to learn more about my
+  projects, skills, and academic background."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Connect with Me"
+    link: "https://www.linkedin.com/in/valentin-safronov"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "Professional Experience"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "I have accumulated valuable experience across different domains including full-stack development, embedded
+    systems, and machine learning during my tenure at BMW and CREAT GmbH. I have also developed chatbots serving over
+    25,000 users, highlighting my versatility and capability in technology."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Full-stack development and machine learning at BMW."
+      - "Developing Telegram chatbots for universities and businesses."
+      - "Working on exterior electronics concepts and architecture at CREAT GmbH."
     button:
       enable: false
-      label: "Get Started Now"
-      link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Academic Background"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "I am currently pursuing a B.Sc. in Engineering Sciences at TUM, Munich, aiming to deepen my understanding in
+    mechatronics, robotics, and biomechanical engineering. My education journey also includes a preparatory course at KIT
+    Studienkolleg, Karlsruhe."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
-    button:
-      enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
-
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "B.Sc. Engineering Sciences at TUM, Munich."
+      - "Preparatory course at KIT Studienkolleg, Karlsruhe."
+      - "Graduated from Physics and Mathematics Lyceum No. 30."
     button:
       enable: false
-      label: ""
-      link: ""
+
+  - title: "Skills & Languages"
+    image: "/images/service-3.png"
+    content: "I bring a rich set of skills in Kotlin, Android Development, and Mobile Application Development, underpinned
+      by my fluency in German, Russian, and English. My technical prowess is complemented by my active engagement in sports
+      and outdoor activities."
+    bulletpoints:
+      - "Kotlin and Android Development."
+      - "Mobile Application Development."
+      - "Fluent in German, Russian, and English."
+    button:
+      enable: false
 ---

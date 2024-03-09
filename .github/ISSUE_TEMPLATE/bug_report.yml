@@ -62,7 +62,7 @@ body:
     attributes:
       label: Code Reproduction URL
       description: Please reproduce this issue and provide a link to the repository.
-      placeholder: github.com/yourusername/repo
+      placeholder: github.com/svdouble/blog
 
   - type: textarea
     id: additional-information

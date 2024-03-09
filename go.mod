@@ -1,4 +1,4 @@
-module hugoplate.netlify.app
+module blog.svdouble
 
 go 1.20
 
@@ -25,4 +25,5 @@ require (
 	github.com/gethugothemes/hugo-modules/tab v0.0.0-20240228105219-38c9f9c6e062 // indirect
 	github.com/gethugothemes/hugo-modules/table-of-contents v0.0.0-20240228105219-38c9f9c6e062 // indirect
 	github.com/gethugothemes/hugo-modules/videos v0.0.0-20240228105219-38c9f9c6e062 // indirect
+	github.com/zeon-studio/hugoplate v0.0.0-20240303030818-08d168e2f2f3 // indirect
 )
